@@ -8,7 +8,7 @@ with connection.cursor() as cursor:
     cursor.execute(show_table_query)
     # Fetch rows from last executed query
     result = cursor.fetchall()
-    print("Movie Table Schema after alteration:")
+    print("Restaurant Table Schema after alteration:")
     for row in result:
         print(row)
 
