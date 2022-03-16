@@ -1,3 +1,3 @@
 thisInt = 42
-print(myInt)
+print(thisInt)
 
