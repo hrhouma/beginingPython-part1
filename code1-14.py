@@ -4,5 +4,5 @@ print("Hello, %s!" % theName)
 
 theName = "Hans"
 theAge = 43
-print("%s is %d years old." % (name, age))
+print("%s is %d years old." % (theName, theAge))
 
