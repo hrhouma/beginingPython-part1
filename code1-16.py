@@ -8,3 +8,4 @@ print(len(theString))
 theString = "Hello World"
 print(theString.index("o"))
 
+#print("Hello".index("o"))

@@ -8,3 +8,5 @@ print(theString.endswith("pants"))
 theString = "Hello World!"
 nextString = theString.split(" ")
 print(nextString)
+#print(nextString[0])
+#print(nextString[1])

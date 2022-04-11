@@ -1,4 +1,4 @@
-thePhrase = "twinkle twinkle" + " " + "Little Star"
+thePhrase = "twinkle twinkle" + " " + "Little Star" 
 print(thePhrase)
 
 tenPants = "pants" * 10
