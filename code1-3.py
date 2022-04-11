@@ -1,2 +1,2 @@
-thisInt = 42
-print(thisInt)
+myInt = 42
+print(myInt)

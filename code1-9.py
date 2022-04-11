@@ -1,3 +1,4 @@
+#A CORRIGER A PARTIR DICI
 numbers = []
 strings = []
 names = ["mark", "john", "peter"]
